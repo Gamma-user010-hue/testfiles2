@@ -1,4 +1,3 @@
-
 setlocal
 
 :: Get full path of this script
