@@ -1,4 +1,4 @@
-@echo off
+
 setlocal
 
 :: Get full path of this script
